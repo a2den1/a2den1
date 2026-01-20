@@ -2,14 +2,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0070f3&height=200&section=header&text=mc_LSS가%20곧%20출시됩니다!&fontSize=50&fontColor=ffffff" />
-
-<br>
+# 🟦 mc_LSS가 곧 출시됩니다!
 
 ### 🚧 공사중이에여....
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Construction.png" alt="Construction" width="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Construction.png" alt="Construction" width="60" />
 
 <br>
+
+## 💬 My Discord Status
+[![Discord Presence](https://lanyard.websandbox.xyz/api/pin/_a2den.)](https://discord.com/users/_a2den.)
+
 <br>
 
 ## 📊 GitHub Stats
