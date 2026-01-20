@@ -10,7 +10,7 @@
 <br>
 
 ## 💬 My Discord Status
-[![Discord Presence](https://lanyard.websandbox.xyz/api/pin/_a2den.)](https://discord.com/users/_a2den.)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1365809772959367269?theme=dark&idleMessage=깊은%20잠에%20빠져있어요.)](https://discord.com/users/1365809772959367269)
 
 <br>
 
