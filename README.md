@@ -1,30 +1,15 @@
+![Header](bg.png)
+
 <div align="center">
 
-<img src="bg.png" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=120&section=header&text=mc_LSS가%20곧%20출시됩니다!&fontSize=40&animation=fadeIn&fontAlignY=50" />
 
-<br/>
+<br>
 
-## 👤 Identity
-<img src="https://img.shields.io/badge/NATIONALITY-SOUTH%20KOREA-white?style=for-the-badge&logo=southkorea&logoColor=black" />
-
-<br/>
-<br/>
-
-## 🏗️ Projects In Progress
-<a href="https://github.com/a2den1/mc_LSS">
-  <img src="https://img.shields.io/badge/PROJECT-mc__LSS-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/a2den1/LCS">
-  <img src="https://img.shields.io/badge/PROJECT-LCS-007ACC?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-## 💬 Contact
-<a href="https://discord.com/users/_a2den.">
-  <img src="https://img.shields.io/badge/Discord-_a2den.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+### 🚧 공사중이에여....
+  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Construction.png" alt="Construction" width="100" />
 
 </div>
+
+---
