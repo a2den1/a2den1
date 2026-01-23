@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🟦 mc_LSS가 곧 출시됩니다!
+# >_ annyeonghaseyo
 
 
 <br>
