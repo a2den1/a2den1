@@ -1,11 +1,16 @@
-![Header](bg.png)
+<p align="center">
+  <img src="bg.png" alt="Banner" width="100%">
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://youtube.com/@aiden-에이든">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
-# 아 저녁 뭐 먹지
-
-
-<br>
-
-
-</div>
+<p align="center">
+  <strong>Discord:</strong> _a2den.
+</p>
